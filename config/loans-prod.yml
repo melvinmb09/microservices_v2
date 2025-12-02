@@ -1,0 +1,11 @@
+build:
+  version: 2.3
+
+loans:
+  message: "Welcome to EazyBank cards related production apis"
+  contactDetails:
+    name: Pradeep - Product owner
+    email: pradeep@eazybank.com
+  onCallNumber:
+    - 8597642589
+    - 6052897456

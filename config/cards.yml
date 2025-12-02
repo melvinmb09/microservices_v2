@@ -1,0 +1,11 @@
+build:
+  version: 2.1
+
+cards:
+  message: "Welcome to EazyBank cards related apis"
+  contactDetails:
+    name: Cyril - Development head
+    email: cyril@eazybank.com
+  onCallSupport:
+    - 7456789023
+    - 8976356789

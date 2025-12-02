@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to EazyBank accounts related local prod APIs "
+  contactDetails:
+    name: "Melvin - Product Owner"
+    email: "melvin@eazybank.com"
+  onCallSupport:
+    - 9080229095
+    - 9551714690

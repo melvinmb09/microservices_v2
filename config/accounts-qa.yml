@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to EazyBank accounts related local qa APIs "
+  contactDetails:
+    name: "Yazhini - Qa lead"
+    email: "yazhini@eazybank.com"
+  onCallSupport:
+    - 7358648844
+    - 9840655270

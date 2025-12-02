@@ -1,0 +1,11 @@
+build:
+  version: 2.2
+
+cards:
+  message: "Welcome to EazyBank cards related qa apis"
+  contactDetails:
+    name: Rohit - QA Lead
+    email: rohit@eazybank.com
+  onCallNumber:
+    - 7589648597
+    - 5478965412
